@@ -2,7 +2,7 @@
 
 > One skull strip at a time (nothing suspicious here).
 
-✨**Hopefully**✨ **you’ll find some very basic** *(and only mildly confusing)* **neuroimaging processing stuff, mainly using FSL, SPM, and MRtrix.**
+✨**Hopefully**✨ **you’ll find some basic** *(and mildly confusing)* **neuroimaging processing stuff, mainly using FSL, SPM, and MRtrix.**
 
 <!--
 **ivonnecruz/ivonnecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
