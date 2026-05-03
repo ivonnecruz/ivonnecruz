@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+> Have you ever tried to relax? It's a paradox.
+
+Hopefully you’ll find some very basic (and only mildly confusing) neuroimaging processing stuff here, mainly using FSL, SPM, and MRtrix.
+
+Please be kind and keep those expectations very low.
+
 <!--
 **ivonnecruz/ivonnecruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
